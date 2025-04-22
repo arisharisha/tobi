@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+time
+plotly.express
+numpy
